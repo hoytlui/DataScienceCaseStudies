@@ -4,6 +4,11 @@ Frame null and alternative hypotheses
 Get familiar with using t-test
 
 #### Analysis:
+Sample size | Know population standard deviation (rare in reality) | Do not know population standard deviation
+----- | ---------------------------------- | ------------------------------------------
+Large (n > 30) | z-score | t-score
+Small (n < 30) | t-score (replace sample sd with population sd in formula | t-score
+
 As stated in the Central Limit Theorem, the graph aligns with the theory that as sample size increases, sampling distributions become narrower.
 
 ![frequentist_inference1](https://user-images.githubusercontent.com/36130927/119580024-a74fdf00-bd8d-11eb-855f-aef06b12ab2e.png)
