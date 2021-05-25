@@ -42,7 +42,7 @@ Forming a (right) conclusion can be difficult as it can be subjective, particula
 
 
 #### Further work:
-Plot ppf and cdf to further explain the difference between t-test and z-test
+Consolidate the in-depth concept of statistical analysis
 
 
 #### Skills used:
