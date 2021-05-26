@@ -6,3 +6,8 @@ As true as the learning doesn't stop here, these fundamental projects do pave th
 [London pricing - manipulating dataframe](https://github.com/hoytlui/DataScienceCaseStudies/blob/main/Manipulating_dataframe/)
 tested on data manipulation and basic visualization skills
 
+[Country club - SQL](https://github.com/hoytlui/DataScienceCaseStudies/tree/main/sql)
+queried an external MySQL database to answer business questions
+
+[Medican charges - Frequentist statistics](https://github.com/hoytlui/DataScienceCaseStudies/tree/main/frequentist_inference)
+applied frequentist inference on theoretical and real-world problems
