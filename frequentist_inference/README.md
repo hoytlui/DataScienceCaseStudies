@@ -1,7 +1,7 @@
 # Objective
-Apply frequentist inference and Central Limit Theorem on theoretical and real-world problems
-Frame null and alternative hypotheses
-Get familiar with using t-test
+- Apply frequentist inference and Central Limit Theorem on theoretical and real-world problems
+- Frame null and alternative hypotheses
+- Get familiar with using t-test
 
 #### Analysis:
 Sample size | Know population standard deviation (rare in reality) | Do not know population standard deviation
