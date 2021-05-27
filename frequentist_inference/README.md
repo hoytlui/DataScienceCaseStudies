@@ -15,7 +15,7 @@ The chart below compares both t- and z-distributions.
 
 Source: [Socratic](https://socratic.org/questions/what-is-a-t-score)
 
-The concept behind this is that when the population standard deviation is unknown, which will reduce the degree of freedom in using t-test. This uncertainty leads to a wider distribution compared to normal distribution (or z-distribution), hence a less defined head and longer tails in t-distribution.
+The concept behind is when the population standard deviation is unknown, which will reduce the degree of freedom in using t-test. This uncertainty leads to a wider distribution compared to normal distribution (or z-distribution), hence a less defined head and longer tails in t-distribution.
 
 As stated in the Central Limit Theorem, the graph aligns with the theory that as sample size increases, sampling distributions become narrower.
 
