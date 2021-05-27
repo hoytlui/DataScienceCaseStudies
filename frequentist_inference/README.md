@@ -1,13 +1,21 @@
 # Objective
 - Apply frequentist inference and Central Limit Theorem on theoretical and real-world problems
 - Frame null and alternative hypotheses
-- Get familiar with using t-test
+- Get familiar with using t-test vs. z-test
 
 #### Analysis:
 Sample size | Know population standard deviation (rare in reality) | Do not know population standard deviation
 ----- | ---------------------------------- | ------------------------------------------
 Large (n > 30) | z-score | t-score
 Small (n < 30) | t-score (replace sample sd with population sd in formula | t-score
+
+The chart below compares both t- and z-distributions.
+
+![t-dist_vs_z-dist](https://user-images.githubusercontent.com/36130927/119764862-2e7d7f80-be80-11eb-8822-8b1040150de1.gif)
+
+Source: [Socratic](https://socratic.org/questions/what-is-a-t-score)
+
+The concept behind this is that when the population standard deviation is unknown, which will reduce the degree of freedom in using t-test. This uncertainty leads to a wider distribution compared to normal distribution (or z-distribution), hence a less defined head and longer tails in t-distribution.
 
 As stated in the Central Limit Theorem, the graph aligns with the theory that as sample size increases, sampling distributions become narrower.
 
