@@ -6,7 +6,7 @@
 #### Analysis:
 Sample size | Know population standard deviation (rare in reality) | Do not know population standard deviation
 ----- | ---------------------------------- | ------------------------------------------
-Large (n > 30) | z-score | t-score
+Large (n ≥ 30) | z-score | t-score
 Small (n < 30) | t-score (replace sample sd with population sd in formula | t-score
 
 The chart below compares both t- and z-distributions.
