@@ -31,7 +31,7 @@ Lastly, we computed the p-value is 0, meaning the null hypothesis of no differen
 
 
 #### Conclusion:
-And we concluded that apps being put on Google Play Store do have higher ratings than those being put on Apple App Store.
+We can conclude that apps being put on Google Play Store do have higher ratings than those being put on Apple App Store.
 - How does that impact the developers on their marketing strategies?
 
 
