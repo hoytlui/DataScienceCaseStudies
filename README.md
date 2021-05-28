@@ -11,3 +11,6 @@ queried an external MySQL database to answer business questions
 
 [Medical charges - Frequentist statistics](https://github.com/hoytlui/DataScienceCaseStudies/tree/main/frequentist_inference)
 applied frequentist inference on theoretical and real-world problems
+
+[Integrating apps - Permutation test](https://github.com/hoytlui/DataScienceCaseStudies/tree/main/permutation_test)
+applied permutation test to conclude whether apps uploaded to Google Play Store have higher ratings than to Apple Store
