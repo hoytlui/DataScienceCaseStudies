@@ -36,8 +36,8 @@ We can conclude that apps being put on Google Play Store do have higher ratings 
 
 
 #### Further work:
-Dig deeper to find out if any genres are given a higher overall ratings
-Explore other opportunities for using different kinds of statistical tests
+- Dig deeper to find out if any genres are given a higher overall ratings
+- Explore other opportunities for using different kinds of statistical tests
 
 
 #### Skills used:
