@@ -25,32 +25,31 @@ Let's model it with a 0.75/0.25 train/test split.
 
 
 Linear regression model 1 - base model
+Linear regression model shows the positive correlation. But there are lots of noises in the graph. R-squared is 0.447.
 
 ![6 model1](https://user-images.githubusercontent.com/36130927/120146325-e9748880-c1b2-11eb-8d4a-4af9bba3613c.png)
 
-Linear regression model shows the positive correlation. But there are lots of noises in the graph. R-squared is 0.447.
 
 
 Linear regression model 2 - OLS, adding a constant
+Adding a constant to OLS seems to have less variance than the base model, but R-squared is the same at 0.447.
 
 ![7 model2](https://user-images.githubusercontent.com/36130927/120146354-f2655a00-c1b2-11eb-97a2-18e944ce23a1.png)
 
-Adding a constant to OLS seems to have less variance than the base model, but R-squared is the same at 0.447.
 
 
 Linear regression model 3 - multiple linear regression
+Using multiple variables on top of model 2 gives a much higher R-squared of 0.877.
 
 ![8 model3](https://user-images.githubusercontent.com/36130927/120146382-fb562b80-c1b2-11eb-84ef-76895e81eff2.png)
 
-Using multiple variables on top of model 2 gives a much higher R-squared of 0.877.
 
 
 Linear regression model 4 - multiple linear regression less positively correlated explantory variables
-
-![9 model4](https://user-images.githubusercontent.com/36130927/120146655-6869c100-c1b3-11eb-948e-fc21c551e3f4.png)
-
 Further dropping more correlated columns avoid the redundancy that may adversely affect the predictive power.
 But R-squared shows 0.855, 0.022 less than that of model 3.
+
+![9 model4](https://user-images.githubusercontent.com/36130927/120146655-6869c100-c1b3-11eb-948e-fc21c551e3f4.png)
 
 
 To check model accuracy, root mean squared error can be used along with R-squared, although the analysis in this case study was driven by R-squared.
