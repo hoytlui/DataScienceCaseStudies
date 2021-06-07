@@ -9,13 +9,13 @@ Through data cleaning and visualization, we found that
 - 75% of the customers who spent less than $32 last week decided not to purchase
 - 75% of the customers who spent more than $34 last week decided to purchase
 
-![2 spent_last_week vs decision](https://user-images.githubusercontent.com/36130927/121100821-96a95b00-c7c8-11eb-90d7-2ca42a370800.png)
+![2 spent_last_week vs decision](https://user-images.githubusercontent.com/36130927/121101397-c2791080-c7c9-11eb-8694-2897e3b9e3c3.png)
 
 
 - customers who live further away from the flagship store did not spend more enough decide not to purchase
 - customers who live close to the flagship store tend to decide to purchase with small amount of purchase last month
 
-![3 spent_last_month vs distance](https://user-images.githubusercontent.com/36130927/121100833-9a3ce200-c7c8-11eb-86b6-e2ee578ffb7a.png)
+![3 spent_last_month vs distance](https://user-images.githubusercontent.com/36130927/121101403-c60c9780-c7c9-11eb-90f4-af11db2a91e9.png)
 
 
 Next, we categorized variables before spliting the training and test sets and building models.
