@@ -8,18 +8,20 @@ could predict their purchase of the new coffee beans from Hidden Farm
 Through data cleaning and visualization, we found that
 - 75% of the customers who spent less than $32 last week decided not to purchase
 - 75% of the customers who spent more than $34 last week decided to purchase
+
 ![2 spent_last_week vs decision](https://user-images.githubusercontent.com/36130927/121100821-96a95b00-c7c8-11eb-90d7-2ca42a370800.png)
 
 
 - customers who live further away from the flagship store did not spend more enough decide not to purchase
 - customers who live close to the flagship store tend to decide to purchase with small amount of purchase last month
+
 ![3 spent_last_month vs distance](https://user-images.githubusercontent.com/36130927/121100833-9a3ce200-c7c8-11eb-86b6-e2ee578ffb7a.png)
 
 
-Predict Decision
+Next, we categorized variables before spliting the training and test sets and building models.
 
 
-Modeling - 4 models
+**Modeling - 4 models**
 1. Entropy model with no max depth
 
 ![4 dt entropy1](https://user-images.githubusercontent.com/36130927/121100846-a4f77700-c7c8-11eb-9bbb-b9df100f1f4c.png)
@@ -41,7 +43,7 @@ Modeling - 4 models
 
 
 
-Evaluation
+**Evaluation**
 We evaluated the models on their accuracy, precision and recall scores.
 Entropy model returns the best scores in all 3 metrics, 99.2%, 98.7%, 97.6%, respectively.
 However, without capping the max depth, the original entropy and gini models went as many as 5 and 6 levels, respectively, which tends to overfit the data.
@@ -51,7 +53,7 @@ Gini model returned the most elegant solution, at 97.5% accuracy, 97.5% precisio
 It is also of less computational expensive because of the nature that it is not using log function in its algorithm.
 
 
-Random Forest
+**Random Forest**
 We also tried random forest to give us a more consistent result by averaging results from different trees, leading to less randomness.
 Theoretically speaking, random forest would improve predictive accuracy and control over-fitting compared to decision tree.
 
