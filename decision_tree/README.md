@@ -8,10 +8,13 @@ could predict their purchase of the new coffee beans from Hidden Farm
 Through data cleaning and visualization, we found that
 - 75% of the customers who spent less than $32 last week decided not to purchase
 - 75% of the customers who spent more than $34 last week decided to purchase
+![2 spent_last_week vs decision](https://user-images.githubusercontent.com/36130927/121100821-96a95b00-c7c8-11eb-90d7-2ca42a370800.png)
 
 
 - customers who live further away from the flagship store did not spend more enough decide not to purchase
 - customers who live close to the flagship store tend to decide to purchase with small amount of purchase last month
+![3 spent_last_month vs distance](https://user-images.githubusercontent.com/36130927/121100833-9a3ce200-c7c8-11eb-86b6-e2ee578ffb7a.png)
+
 
 Predict Decision
 
@@ -19,18 +22,22 @@ Predict Decision
 Modeling - 4 models
 1. Entropy model with no max depth
 
+![4 dt entropy1](https://user-images.githubusercontent.com/36130927/121100846-a4f77700-c7c8-11eb-9bbb-b9df100f1f4c.png)
 
 
 2. Gini model with no max depth
 
+![5 dt gini1](https://user-images.githubusercontent.com/36130927/121100851-a7f26780-c7c8-11eb-822d-0f2e0b27d1e3.png)
 
 
 3. Entropy model with 3 levels of max depth
 
+![6 dt entropy2](https://user-images.githubusercontent.com/36130927/121100854-ac1e8500-c7c8-11eb-965e-a3ec12bdfb8b.png)
 
 
 4. Gini model with 3 levels of max depth
 
+![7 dt gini2](https://user-images.githubusercontent.com/36130927/121100859-ae80df00-c7c8-11eb-872e-00c40a96c9b5.png)
 
 
 
