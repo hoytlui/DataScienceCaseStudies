@@ -44,6 +44,7 @@ Next, we categorized variables before spliting the training and test sets and bu
 
 
 **Evaluation**
+
 We evaluated the models on their accuracy, precision and recall scores.
 Entropy model returns the best scores in all 3 metrics, 99.2%, 98.7%, 97.6%, respectively.
 However, without capping the max depth, the original entropy and gini models went as many as 5 and 6 levels, respectively, which tends to overfit the data.
@@ -54,6 +55,7 @@ It is also of less computational expensive because of the nature that it is not 
 
 
 **Random Forest**
+
 We also tried random forest to give us a more consistent result by averaging results from different trees, leading to less randomness.
 Theoretically speaking, random forest would improve predictive accuracy and control over-fitting compared to decision tree.
 
