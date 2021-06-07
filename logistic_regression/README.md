@@ -4,7 +4,7 @@
 #### Analysis:
 Use logistic regression to predict gender using the weight and height features
 
-[fig1]
+![plot1](https://user-images.githubusercontent.com/36130927/121052056-00554500-c788-11eb-9326-bf9b2fb76adf.png)
 
 
 Base model (with cross-validation) accuracy: 0.9172
@@ -12,9 +12,9 @@ Base model (with cross-validation) accuracy: 0.9172
 
 Hyperparameter turning
 
-Regularization parameter ***C*** controls for unlikely high regression coefficients or for feature selection
-We tuned ***C*** with 0.001, 0.1, 1, 10, and 100, and we found that the highest average score on training data is 0.9172 at C = 0.1
-We then used the best parameter of `C = 0.1` on test data and predicted with an accuracy score of 0.9252
+Regularization parameter ***C*** controls for unlikely high regression coefficients or for feature selection.
+We tuned ***C*** with 0.001, 0.1, 1, 10, and 100, and we found that the highest average score on training data is 0.9172 at C = 0.1.
+We then used the best parameter of C = 0.1 on test data and predicted with an accuracy score of 0.9252.
 
 
 Now, using Grid Search, we found that the best accuracy is 0.9252 at C = 1
@@ -25,11 +25,12 @@ thus implementing a form of feature selection
 
 
 The figure below shows that the logistic regression with the best parameters returns a 92.52% accuracy.
-Red is Female, blue is Male
-Circle is training data, square is test data
-Grid boundary is split into red and blue, which is the maximum classifier separating the predicted labels
+Red is Female, blue is Male.
+Circle is training data, square is test data.
+Grid boundary is split into red and blue, which is the maximum classifier separating the predicted labels.
 
-[fig]
+![plot2](https://user-images.githubusercontent.com/36130927/121052093-0814e980-c788-11eb-890d-f719e4b255d8.png)
+
 
 
 #### Conclusion:
