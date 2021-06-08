@@ -9,6 +9,16 @@ In the gradient boosting classifier, we tuned hyperparameters by testing multipl
 Then we fit the model and predicted on the test set.
 The confusion matrix, classification report and ROC curve evaluate high accuracy of the model.
 
+![1 cm training data](https://user-images.githubusercontent.com/36130927/121260444-5b1d9800-c87f-11eb-960d-89550350f9f4.png)
+
+
+![2 cm test data](https://user-images.githubusercontent.com/36130927/121260460-62dd3c80-c87f-11eb-8fd8-393a7045b022.png)
+
+
+![3 classification report](https://user-images.githubusercontent.com/36130927/121260470-653f9680-c87f-11eb-8656-a3142b0f941e.png)
+
+
+![4 roc curve](https://user-images.githubusercontent.com/36130927/121260486-696bb400-c87f-11eb-8261-b4cc264aac62.png)
 
 
 
