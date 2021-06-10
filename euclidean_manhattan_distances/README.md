@@ -5,14 +5,14 @@
 #### Analysis:
 The idea of this exploratory work on distance calculation is to understand how different data points appear on the graph in the distance metric.
 
-The Euclidean graphs below tell us the centroids of the data points are close to (5,5) on y- and z-axes.
+The Euclidean graphs below tell us the data points are close to (5,5) on the YZ plane.
 
 ![1 euclidean55](https://user-images.githubusercontent.com/36130927/121603064-37408a80-ca16-11eb-9e96-8164f57ead08.png)
 
 ![2 euclidean33](https://user-images.githubusercontent.com/36130927/121603068-3871b780-ca16-11eb-9f0b-6b6a4ff35c16.png)
 
 
-The Manhattan graphs below tell us the centroids of the data points are close to (5,5) on x- and z-axes.
+The Manhattan graphs below tell us the data points are close to (5,5) on the XZ plane.
 
 ![3 manhattan55](https://user-images.githubusercontent.com/36130927/121603074-390a4e00-ca16-11eb-86e5-eccc5597f587.png)
 
