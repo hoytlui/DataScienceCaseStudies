@@ -40,8 +40,8 @@ It is also efficient to investigate the feature importance with a large dataset.
 While 0.854 accuracy score and 0.827 F1 score show that random forest model is effective in this case, 
 one thing to keep in mind is that the model may be subject to the imbalance class of the dataset.
 
-The state column contains 84% isolated, 14% released, 2% deceased.
-It is easy for the model to predict the correct answer if it guesses isolated every time - 84% correct
+The state column contains 81% isolated, 14% released, 1% deceased, 4% missing values.
+It is easy for the model to predict the correct answer if it guesses isolated every time - 81% correct
 
 ![6 df state](https://user-images.githubusercontent.com/36130927/121434650-a309f100-c94b-11eb-8c15-234f38ca4677.png)
 
