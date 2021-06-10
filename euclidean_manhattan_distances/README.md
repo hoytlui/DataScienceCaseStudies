@@ -47,7 +47,7 @@ n	=	n-space
 
 
 #### Further work:
-- Plot a 3D graph to show all 3 (X, Y, Z) axes
+- Plot a 3D graph to show data points with their distances on all X-, Y-, and Z-axes
 - Apply on different use cases to see which distance is more effective
 
 
