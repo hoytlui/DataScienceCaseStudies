@@ -39,7 +39,7 @@ n	=	n-space
 
 ****Manhattan distance:****
 
-![7 CodeCogsEqn - manhattan](https://user-images.githubusercontent.com/36130927/121604873-542a8d00-ca19-11eb-9f77-00e55caa1b5d.gif)
+![7 CodeCogsEqn - manhattan](https://user-images.githubusercontent.com/36130927/121607386-f2b8ed00-ca1d-11eb-9eec-d87b01d61cf4.gif)
 
 
 
