@@ -1,5 +1,5 @@
 # Objective
-- Apply cosine similarity to compare text values and measure how the tested documents are similar to each other.
+- Apply cosine similarity to compare text values and measure how the tested documents are similar to each other
 
 
 
