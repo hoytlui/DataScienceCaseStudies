@@ -3,6 +3,19 @@ This repository contains all case studies completed during the Springboard Data 
 
 As true as the learning doesn't stop here, these fundamental projects (sorted by newest to oldest) do pave the way for my data science journey with further in-depth study and exploration. Many new ideas and skills evolved when I queried to solve the problems. Feel free to witness my growth with these projects, as well as the ones in the other repositories that will keep updating in the future.
 
+
+[Cosine similarity](https://github.com/hoytlui/DataScienceCaseStudies/tree/main/cosine_similarity)
+applied cosine similarity to compare text values and measure how the tested documents are similar to each other
+
+[Euclidean and Manhattan distances](https://github.com/hoytlui/DataScienceCaseStudies/tree/main/euclidean_manhattan_distances)
+explored and visualized the difference in Euclidean and Manhattan distance calculations
+
+[Gradient boosting - Titanic](https://github.com/hoytlui/DataScienceCaseStudies/tree/main/gradient_boosting)
+built a gradient boosting algorithm to predict survival rate in the classic Kaggle Titanic competition
+
+[Random forest - COVID-19](https://github.com/hoytlui/DataScienceCaseStudies/tree/main/random_forest)
+built a random forest model to predict whether the patient is "released", "isolated", or "deceased" from COVID-19
+
 [Decision tree - specialty coffee](https://github.com/hoytlui/DataScienceCaseStudies/tree/main/decision_tree)
 applied decision tree and random forest to predict new coffee beans purchase from customers
 
