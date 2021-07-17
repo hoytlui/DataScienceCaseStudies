@@ -1,8 +1,33 @@
 # Data Science Case Studies
 This repository contains all case studies completed during the Springboard Data Science Career Track Bootcamp.
 
-As true as the learning doesn't stop here, these fundamental projects (sorted by newest to oldest) do pave the way for my data science journey with further in-depth study and exploration. Many new ideas and skills evolved when I queried to solve the problems. Feel free to witness my growth with these projects, as well as the ones in the other repositories that will keep updating in the future.
+These fundamental projects (sorted by newest to oldest) do pave the way for my data science journey with further in-depth study and exploration.
+Many new ideas and skills evolved when I queried to solve the problems, which formed a solid foundation for my problem-solving process.
 
+
+[Takehome interview - user adoption](https://github.com/hoytlui/DataScienceCaseStudies/tree/main/takehome_-_user_adoption)
+identified factors to predict future user adoption for building marketing strategies
+
+[Takehome interview - rider retention](https://github.com/hoytlui/DataScienceCaseStudies/tree/main/takehome_-_rider_retention)
+suggested a rider retention plan for a transportation company
+
+[Spark machine learning - adult occupation income](https://github.com/hoytlui/DataScienceCaseStudies/tree/main/spark)
+built logistic regression and gradient boosting model to predict adult income using the PySpark library
+
+[Time series analysis - cigarette revenue](https://github.com/hoytlui/DataScienceCaseStudies/tree/main/time_series)
+predicted revenue of a cigarette company using ARIMA model
+
+[Storytelling/EDA - adult income](https://github.com/hoytlui/DataScienceCaseStudies/tree/main/storytelling)
+dissected factors affecting adult income with in-depth exploratory data analysis
+
+[Light GBM Bayesian optimization - flight departures](https://github.com/hoytlui/DataScienceCaseStudies/tree/main/bayesian_optimization)
+optimized hyperparameters of Light GBM using Bayesian optimization to predict flight departure delays
+
+[KNN grid search - diabetes](https://github.com/hoytlui/DataScienceCaseStudies/tree/main/grid_search)
+optimized hyperparameters of KNN and random forest models using grid search to predict which patient has diabetes
+
+[K-means clustering - customer segmentation](https://github.com/hoytlui/DataScienceCaseStudies/tree/main/k-means_clustering)
+predicted customer group through k-means clustering and PCA based on their purchasing behaviors to formulate future offers
 
 [Cosine similarity](https://github.com/hoytlui/DataScienceCaseStudies/tree/main/cosine_similarity)
 applied cosine similarity to compare text values and measure how the tested documents are similar to each other
@@ -34,6 +59,9 @@ applied frequentist inference on theoretical and real-world problems
 [SQL - country club](https://github.com/hoytlui/DataScienceCaseStudies/tree/main/sql)
 queried an external MySQL database to answer business questions
 
-[Manipulating dataframe - London pricing](https://github.com/hoytlui/DataScienceCaseStudies/blob/main/Manipulating_dataframe/)
+[API - Quandl](https://github.com/hoytlui/DataScienceCaseStudies/tree/main/API)
+retrieved data from Quandl's API
+
+[Manipulating dataframe - London pricing](https://github.com/hoytlui/DataScienceCaseStudies/tree/main/manipulating_dataframe)
 tested on data manipulation and basic visualization skills
 
