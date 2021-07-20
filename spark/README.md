@@ -60,7 +60,7 @@ We can also perform cross validation amd hyperparameters tuning and find the bes
 
 ![18 log reg best params](https://user-images.githubusercontent.com/36130927/126260894-cbd90e3a-7293-4eed-a5d7-e998cd7f70a5.png)
 
-Then modeling and predicting again on the cross validated model
+Then model and predict again on the cross validated model
 
 ![21 log reg cv predict](https://user-images.githubusercontent.com/36130927/126260918-6ded8501-1c3e-42e4-b9a5-9a025c047830.png)
 
