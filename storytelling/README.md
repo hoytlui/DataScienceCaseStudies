@@ -50,7 +50,7 @@ People from France, India, or Taiwan tend to have a higher probability (~40%) of
 
 Self-employed by an incorporated firm, the only workclass having a higher-than-50%-chance, compiles a 55% chance of earning above $50K.
 
-![9 occupation vs income](https://user-images.githubusercontent.com/36130927/126243750-528d5816-a4a5-4073-a1cc-a55d28e98379.png)
+![9 occupation vs income](https://user-images.githubusercontent.com/36130927/126248407-dedcadd0-f9f8-4f31-a4a4-79db36a7fc20.png)
 
 The two most highest paid occupations are the executive managerial roles and roles in professional speciality. On the other hand, the least paid occupations are private house service, other service and handlers and cleaners.
 
